@@ -4,8 +4,7 @@
 	Analysis of False Positive in 2 different BLoom Filters
 
 	Title: Main Tests
-	Authors: Rishabh Saxena | Chaitanya Prafull Ujeniya 
-	UCInetID: rsaxena3 | cujeniya
+	Authors: Rishabh Saxena | Chaitanya Prafull Ujeniya
 
 */
 
