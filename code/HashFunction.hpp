@@ -5,7 +5,6 @@
 
 	Title: Hash Function Implementation
 	Authors: Rishabh Saxena | Chaitanya Prafull Ujeniya 
-	UCInetID: rsaxena3 | cujeniya
 
 */
 #ifndef INCLUDE_HASH_FUNCTION
